@@ -16,7 +16,7 @@ There are several reasons to consider using one:
 
 Here are some of the best YouTube to MP3 converters, each with unique pros and cons.
 
-#### [**TubeCatch**](https://www.tubecatch.cloud/)
+#### [**TubeCatch**](https://www.tubecatch.cloud/youtube-to-mp3)
 
 TubeCatch is an easy-to-use web converter. It's perfect for quick downloads, and you don't have to install any extra software.
 
